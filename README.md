@@ -2,7 +2,7 @@
 
 Projet de systemes repartis en Java illustrant trois mecanismes combines :
 RMI, sockets TCP/UDP, et un algorithme de jeton circulant entre plusieurs
-clients.
+clients. 
 
 ## Architecture
 
